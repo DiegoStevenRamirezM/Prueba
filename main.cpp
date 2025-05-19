@@ -181,3 +181,5 @@ int main() {
     cout << "Archivo codificado generado con exito en '" << nombreArchivoSalida << "'.\n";
     return 0;
 }
+
+cout<<"Hola";
